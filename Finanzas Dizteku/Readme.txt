@@ -1,19 +1,40 @@
 # Dashboard Financiero Empresa Disteku
 
-**Objetivo:**  
-Dashboard para realizar análisis de indicadores del área de finanzas de una compañía dedicada a la distribución de productos tecnológicos.
+Descripción del proyecto
 
-**Indicadores principales:**
-- Ingresos Totales
-- Gastos Totales
-- Beneficio
-- Margen de Beneficio
+Dashboard financiero desarrollado en Power BI para el análisis del desempeño económico de una empresa de distribución de productos tecnológicos.
+El reporte permite visualizar ingresos, costos y márgenes, facilitando el control financiero y la toma de decisiones.
 
-**Fuente de datos:**  
-Dataset de práctica / datos simulados (Datdata).
+Objetivo de negocio
 
-**Herramientas:**  
-Power BI, Power Query, DAX básico.
+Apoyar el control de gestión financiero, permitiendo:
 
-**Notas:**  
-Dashboard creado con fines de aprendizaje y portafolio.
+- Evaluar la rentabilidad del negocio
+- Detectar desviaciones relevantes
+- Analizar tendencias en el tiempo
+
+KPI e indicadores analizados
+
+- Ingresos totales
+- Costos operacionales
+- Margen bruto
+- Variación mensual
+- Distribución por línea de producto / período
+
+Análisis y decisiones que habilita
+
+- Identificar períodos con menor rentabilidad
+- Evaluar impacto de costos sobre el margen
+- Apoyar decisiones de ajuste presupuestario o comercial
+
+Herramientas utilizadas
+
+- Power BI Desktop
+- Power Query (transformación de datos)
+- DAX (medidas financieras básicas)
+
+Posibles mejoras
+
+- Incorporar comparación Presupuesto vs Real
+- Automatizar la carga de datos desde una fuente externa
+- Agregar alertas por desviaciones críticas
